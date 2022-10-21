@@ -12,5 +12,7 @@ public class App {
     public static void main(String[] args) {
         ConfigurableApplicationContext context = SpringApplication.run(App.class, args);
         System.out.println(123);
+        System.out.println(123);
+        System.out.println(123);
     }
 }
