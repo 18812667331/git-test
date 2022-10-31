@@ -6,4 +6,7 @@ package com.zoe;
  * @author zoe
  */
 public class A {
+    public static void main(String[] args) {
+        
+    }
 }
